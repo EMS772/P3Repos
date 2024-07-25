@@ -1,5 +1,9 @@
-# nueva_funcionalidad.py
-def saludar(nombre):
-    return f"Hola, {nombre}! Esta es una nueva funcionalidad."
+# Nueva Funcionalidad: Saludo Personalizado
 
-print(saludar("Usuario"))
+Esta rama contiene el desarrollo de una nueva funcionalidad para personalizar saludos.
+
+## En desarrollo:
+- Función de saludo con opciones de idioma
+- Integración con sistema de preferencias de usuario
+
+Nota: Esta característica aún no está lista para ser mergeada a dev.
