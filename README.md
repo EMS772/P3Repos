@@ -1,3 +1,2 @@
-# Proyecto de Prueba
-
-Esta es una prueba para desarrollar una nueva funcionalidad esta rama.
+def saludar(nombre):
+    return f"Hola, {nombre}! Esta es una nueva funcionalidad probada en QA."
