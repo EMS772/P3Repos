@@ -1,8 +1,9 @@
-# correccion_error.py
-def dividir(a, b):
-    if b == 0:
-        return "Error: No se puede dividir por cero"
-    return a / b
+# Hotfix: Corrección de Error Crítico en División
 
-print(dividir(10, 2))
-print(dividir(5, 0))
+Esta rama contiene una corrección urgente para un error crítico en la función de división.
+
+## Corrección:
+- Manejo mejorado de la división por cero
+- Adición de logs para mejor diagnóstico
+
+Nota: Esta corrección debe ser mergeada a main y dev lo antes posible.
