@@ -1,3 +1,5 @@
-# Proyecto de Prueba
+# nueva_funcionalidad.py
+def saludar(nombre):
+    return f"Hola, {nombre}! Esta es una nueva funcionalidad."
 
-Esta es una prueba para desarrollar una nueva funcionalidad en la rama `feature/nueva-funcionalidad`.
+print(saludar("Usuario"))
